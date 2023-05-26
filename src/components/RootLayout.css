@@ -1,0 +1,8 @@
+.for-outlet {
+    min-height: 75vh;
+}
+
+.for-footer {
+    position: sticky;
+    top: 100%
+}
